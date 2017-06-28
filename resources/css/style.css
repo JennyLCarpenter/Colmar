@@ -148,7 +148,7 @@ nav .main {
 }
 .midsection {
   display: flex;
-  height: 750px;
+  height: 700px;
   margin-top: 32px;
   margin-left: 24px;
   width: 100%;
@@ -206,7 +206,7 @@ hr {display: none;}
 }
 }
 .sideWords img {
-  width: 100%;
+  width: 50%;
 }
 @media only screen and (max-width: 959px) {
 .sideWords img {
@@ -380,7 +380,7 @@ display: none;
   margin-top: 16px;
 }
 #fisma img, #research img {
-  height: 136px;
+  height: auto;
   width: 136px;
   margin: 16px;
 }
